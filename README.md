@@ -15,7 +15,7 @@ The aim of this repository is simple: to provide a go-to resource for makers who
 
 ## 🚧 Current Progress
 
-We've found **61 platforms** so far! We're still on the hunt for more to reach our goal of 100. If you know of any other platforms, feel free to contribute.
+We've found **62 platforms** so far! We're still on the hunt for more to reach our goal of 100. If you know of any other platforms, feel free to contribute.
 
 ## 🔗 Contribute
 
@@ -85,4 +85,4 @@ If you know of any other platforms where makers can post their projects for free
 | 58  | [ai-hunter](https://ai-hunter.io/)                                                                                      | Free & Paid | Website   | [Submit](https://aihunter.io/submitaitool/)                                                                   |
 | 59  | [gptacademy](https://gptacademy.co/)                                                                                    | Free & Paid | Website   | [Submit](https://www.gptacademy.co/)                                                                          |
 | 60  | [Dang.ai AI Tools](https://dang.ai/)                                                                                    | Free + Paid | Website   | [Submit](https://dang.ai/)                                                                                    |
-| 61  | [ChatGPT Demo](https://chatgptdemo.com/)                                                                                | Free + Paid | Website   | [Submit](https://chatgptdemo.com/sponsorshipoptions/)                                                         |
+| 61  | [ChatGPT Demo](https://chatgptdemo.com/)                                                                                | Free + Paid | Website   | [Submit](https://chatgptdemo.com/sponsorshipoptions/)                                                         || 62  | [MeetNewAI](https://meetnewai.com/)                                                                                           | Free        | Website   | [Submit](https://meetnewai.com/)                                                                              |
